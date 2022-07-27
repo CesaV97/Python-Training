@@ -1,0 +1,4 @@
+Practica final 
+Aplicacion de venta de bebidas con Python
+* creacion de la base de datos
+
